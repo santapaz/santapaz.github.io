@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to santapaz pages
 
 You can use the [editor on GitHub](https://github.com/santapaz/santapaz.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
